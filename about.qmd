@@ -1,5 +1,6 @@
 ---
 title: "About"
 ---
-
-About this site
+## About Me
+I am a boy, **Ethan Yao**, that goes to *W.H Morden* but about to go to Abbey Park.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
